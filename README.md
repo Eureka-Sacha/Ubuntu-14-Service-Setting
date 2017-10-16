@@ -1,2 +1,13 @@
 # Ubuntu-14-Service-Setting
-my default ubuntu setting
+  This is my commonly used ubuntu setting
+
+## About the tools or ide
+  * python 2.7.8
+  * nodejs
+  * java 8
+  * idea-C
+  * docker
+  *  vim
+  *  maven
+  *  tomcat
+  *  ...
