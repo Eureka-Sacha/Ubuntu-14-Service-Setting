@@ -5,7 +5,6 @@
   * python 2.7.8
   * nodejs
   * java 8
-  * idea-C
   * docker
   *  vim
   *  maven
